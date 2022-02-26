@@ -1,0 +1,15 @@
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\bin\Debug\FinalProject_IS318-8.exe.config
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\bin\Debug\FinalProject_IS318-8.exe
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\bin\Debug\FinalProject_IS318-8.pdb
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318-8.csproj.AssemblyReference.cache
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318_8.Form1.resources
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318_8.Properties.Resources.resources
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318-8.csproj.GenerateResource.cache
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318-8.csproj.CoreCompileInputs.cache
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318-8.exe
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318-8.pdb
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\bin\Debug\FinalProject_IS318-8.exe.manifest
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\bin\Debug\FinalProject_IS318-8.application
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318-8.exe.manifest
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318-8.application
+C:\Users\Kobyl\OneDrive\School Essay\Bachelors\Semester 1\Term B\IS318-8 C#\Final Project\FinalProject_IS318-8\FinalProject_IS318-8\obj\Debug\FinalProject_IS318-8.csproj.SuggestedBindingRedirects.cache
